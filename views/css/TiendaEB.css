@@ -1,0 +1,40 @@
+
+
+.catalogo {
+    width: inherit;
+    border: 0px;
+}
+.imagen {
+    width: 170px;
+    height: 150px;  
+}
+
+.detalle{
+    padding: 5px 5px;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.boton{
+    background-color: #2C4859;
+    color: white;
+    text-align: center; 
+    font-weight: bold;
+}
+.boton:hover{
+    background-color: #A7D5F2;
+    color: #2C4859;
+    font-weight: bold;
+}
+
+.titulo > h3{
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: #2C4859;
+    font-weight: bold;
+}
+
+    
